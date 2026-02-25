@@ -14,6 +14,7 @@
 		A6A3BC5A2F4E2FFD00B9C879 /* AlarmsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6A3BC592F4E2FFD00B9C879 /* AlarmsView.swift */; };
 		A6A3BC5C2F4E302200B9C879 /* StopwatchView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6A3BC5B2F4E302200B9C879 /* StopwatchView.swift */; };
 		A6A3BC5E2F4E3BAA00B9C879 /* CityView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6A3BC5D2F4E3BAA00B9C879 /* CityView.swift */; };
+		A6E8F9C32F4F51A500EDA008 /* Alarms.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6E8F9C22F4F51A500EDA008 /* Alarms.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +26,7 @@
 		A6A3BC592F4E2FFD00B9C879 /* AlarmsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlarmsView.swift; sourceTree = "<group>"; };
 		A6A3BC5B2F4E302200B9C879 /* StopwatchView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StopwatchView.swift; sourceTree = "<group>"; };
 		A6A3BC5D2F4E3BAA00B9C879 /* CityView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CityView.swift; sourceTree = "<group>"; };
+		A6E8F9C22F4F51A500EDA008 /* Alarms.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Alarms.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -71,6 +73,7 @@
 				A6A3BC572F4E2FEF00B9C879 /* WorldClockView.swift */,
 				A6A3BC5D2F4E3BAA00B9C879 /* CityView.swift */,
 				A6A3BC592F4E2FFD00B9C879 /* AlarmsView.swift */,
+				A6E8F9C22F4F51A500EDA008 /* Alarms.swift */,
 				A6A3BC5B2F4E302200B9C879 /* StopwatchView.swift */,
 			);
 			path = Views;
@@ -152,6 +155,7 @@
 				A6A3BC5E2F4E3BAA00B9C879 /* CityView.swift in Sources */,
 				A6A3BC582F4E2FEF00B9C879 /* WorldClockView.swift in Sources */,
 				A6A3BC542F4E2EF200B9C879 /* LandingView.swift in Sources */,
+				A6E8F9C32F4F51A500EDA008 /* Alarms.swift in Sources */,
 				A6A3BC5C2F4E302200B9C879 /* StopwatchView.swift in Sources */,
 				A6A3BC5A2F4E2FFD00B9C879 /* AlarmsView.swift in Sources */,
 			);
